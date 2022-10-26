@@ -1,0 +1,405 @@
+{
+    "data": {
+        "allGraphCmsEvent": {
+            "nodes": [
+                {
+                    "id": "Event:ckst3aqcwf2v70b86v0das1xt:PUBLISHED",
+                    "title": "Bit'wise' Coding Contest",
+                    "about": "You have to be a bit wise to choose your algorithms for this one! With over 196 participants at this successful coding competition, it was a perfect commencement of activities for the academic year 2021. ",
+                    "when": "2021-07-28T13:00:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/mnDmqbIbTBGErWuCL0Fm"
+                    },
+                    "timeCategory": "Present",
+                    "link": null
+                },
+                {
+                    "id": "Event:ckst3da6gf93v0b39w8ohk140:PUBLISHED",
+                    "title": "Cracking the Code: MS/PhD Admissions",
+                    "about": "Our first webinar for the academic year 2021, hosted by our guest speaker Mr. Aashish, an incoming Informatics PhD student at Penn State University. He guided the participants with the bittersweet process of MS/PhD applications for our dream colleges abroad.",
+                    "when": "2021-08-02T12:30:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/sVYuMcSCSHSGYhtfucGn"
+                    },
+                    "timeCategory": "Present",
+                    "link": "https://www.youtube.com/watch?v=N67R6OqNLBo"
+                },
+                {
+                    "id": "Event:ckst3f1g8f95t0b39wo51nie0:PUBLISHED",
+                    "title": "Fantastic ML Models and How to Deploy them",
+                    "about": "As Machine Learning (ML) is the most up and coming field in computing, we had a webinar with Mr. Narendran Thangarajan providing useful and intelligible insights into this new world with hands-on guidance!",
+                    "when": "2021-08-24T03:30:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/TInLUqP0RUio90gkVaZX"
+                    },
+                    "timeCategory": "Present",
+                    "link": "https://www.youtube.com/watch?v=2tvvpSKBjbs"
+                },
+                {
+                    "id": "Event:ckst3loncf4030b41ki0wallk:PUBLISHED",
+                    "title": "Training your own Image Classifier",
+                    "about": "Under the guidance of Nandhinee, Chair from the final year of the CSE department, participants learnt to train their own image classifiers using Lenet CNN model and Keras. This event was conducted along with the Student Chapter of SSN ACM. ",
+                    "when": "2019-08-14T03:30:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/c3rfU0qoTO6yXBS2W4tU"
+                    },
+                    "timeCategory": "Past",
+                    "link": null
+                },
+                {
+                    "id": "Event:ckst3mowwf3jw0b86u48cvj4j:PUBLISHED",
+                    "title": "ACM Eminent Speaker Program",
+                    "about": "The ACM and ACM-W student chapters of SSNCE jointly hosted the ACM India Eminent Speaker programme, a two-hour talk titled “Compute, Compute, Compute - How hard can it get?” was given by the esteemed Professor Meena Mahajan from The Institute of Mathematical Sciences, CIT Campus, Chennai.",
+                    "when": "2019-09-11T04:30:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/iQ01Ec8GTJaBW4GDVV4w"
+                    },
+                    "timeCategory": "Past",
+                    "link": null
+                },
+                {
+                    "id": "Event:ckst3npy8f3lw0b86iqwf0ixs:PUBLISHED",
+                    "title": "UI/UX Design Contest",
+                    "about": "The ACM-W Student Chapter at SSN Organized the UI/UX Design Contest in collaboration with Techdew UX design and Consulting Pvt Ltd. The contest saw several participants from across all departments battling out till the end creating some amazing designs to the\nproblem statement that was given to them.",
+                    "when": "2019-10-04T03:30:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/jJhHjuIdT5K2osV1UhMr"
+                    },
+                    "timeCategory": "Past",
+                    "link": null
+                },
+                {
+                    "id": "Event:ckst3opg0f74x0c85ragyavc4:PUBLISHED",
+                    "title": "Code Relay Race",
+                    "about": "In collaboration with Hour of Code conducted by CODE.org, ACM and ACM-W\nstudent chapters of SSNCE jointly hosted the Code Relay Race ,a team event that involved both physical and mental challenges in order to reach the final destination. The event was a hybrid of coding quizzes and Treasure hunting.",
+                    "when": "2019-12-13T03:30:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/6y0iO9YmR3GJbkAeF0Z5"
+                    },
+                    "timeCategory": "Past",
+                    "link": null
+                },
+                {
+                    "id": "Event:ckst3ps0wf9ug0b394seh1hvx:PUBLISHED",
+                    "title": "Hackathon 101",
+                    "about": "ACM-W Student Chapter of SSN organized Hack 101, an introduction to the world of\nHackathons. The event had participants from across all departments and years who were new to the Hackathon scenes. Participants were grouped into teams and were given real life problem statements in fields such as Computer Vision, Data Analysis, Development and Security to brainstorm on.",
+                    "when": "2020-03-10T04:30:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/zFaaQJJfQoyXknem9DGr"
+                    },
+                    "timeCategory": "Past",
+                    "link": null
+                },
+                {
+                    "id": "Event:ckst3se5sf7ja0c85ghawn7ip:PUBLISHED",
+                    "title": "Code from Home",
+                    "about": "SSN Coding community along with ACM and ACM-W Student chapters\nconducted Code from Home, an Online coding contest hosted on Hackerrank platform ,\nThe 2 hour long contest had 5 problems with varying complexities that were designed by\nthe heads of SSN coding community.",
+                    "when": "2020-03-24T12:30:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/jz7I075YRX2XEqGHtkot"
+                    },
+                    "timeCategory": "Past",
+                    "link": null
+                },
+                {
+                    "id": "Event:ckst3t6pkf7pi0c85etn7rgux:PUBLISHED",
+                    "title": "Online DevFest 2020",
+                    "about": "DevFest 2020 was a collaborated initiative of the ACM-W student chapter and a few very\nenthusiastic third year CSE students, to emphasize professional coding and documenting\ntechniques - essential elements of open-source contributions.",
+                    "when": "2020-04-11T06:30:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/jdMI7tN8REWK2phjNgvK"
+                    },
+                    "timeCategory": "Past",
+                    "link": null
+                },
+                {
+                    "id": "Event:ckst3ve6ofako0b39atk38c8y:PUBLISHED",
+                    "title": "Kloc.EXE Codeathon",
+                    "about": "A coding competition organised and hosted by SSN ACM-W students on HackRank, with over 150 participants! ",
+                    "when": "2021-05-01T04:30:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/jvGYejgmSZKN6X8rCdJD"
+                    },
+                    "timeCategory": "Past",
+                    "link": null
+                },
+                {
+                    "id": "Event:ckst3y9kwf7zd0c851wzl1lfl:PUBLISHED",
+                    "title": "Intro to Modern Cloud Computing with AWS",
+                    "about": "Muthu Annamalai CT and Kirtana RN, alumni from batches of 2018 and 2019 respectively, conducted this interesting and fun session on cloud computing. It was organized by the student team of SSN ACM-W.",
+                    "when": "2020-08-08T04:30:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/wuE067JeRBSuQjROoII1"
+                    },
+                    "timeCategory": "Past",
+                    "link": null
+                },
+                {
+                    "id": "Event:ckst40ga8f83i0c85vmg73ti4:PUBLISHED",
+                    "title": "Role of AI in Financial Service Sector",
+                    "about": "The team organised this event, by inviting an esteemed speaker, Dr Ranadhir Ghosh, an AI/ML Quantitative Specialist for FIS Global. He interacted with the participants and provided a lot of insights. ",
+                    "when": "2020-09-11T12:30:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/4uC1EMkRS6ox0siCsIXr"
+                    },
+                    "timeCategory": "Past",
+                    "link": null
+                },
+                {
+                    "id": "Event:ckt3wcths0ysn0c429t14hzzz:PUBLISHED",
+                    "title": "Coding League",
+                    "about": "On account of the Women in Computing celebrations 2020 the ACM-W Chennai region organized a Coding League. SSN ACM-W, VIT ACM, SRMIST ACM-W and Easwari ACM jointly hosted a coding competition on Hackerrank platform. Winner and Runner were given a cash prize of ₹3000 and ₹2000 respectively.",
+                    "when": "2020-10-02T05:30:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/WFvTVAz1TfCkNkZcFiDR"
+                    },
+                    "timeCategory": "Past",
+                    "link": null
+                },
+                {
+                    "id": "Event:ckt3x9od410c40d40mvxdgn2q:PUBLISHED",
+                    "title": "ACM-W India - Chennai Regional Celebrations 2020",
+                    "about": "ACM-W India - Chennai Regional Celebrations of Women in Computing Event is being organized jointly by ACM Chennai Professional Chapter and the ACM-W Chapters of SSN College of Engineering, VIT Chennai, SRM Easwari Engineering College and SRM University with the theme \"Artificial Intelligence for Social Good\".",
+                    "when": "2020-10-09T20:30:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/HhtkkeaQKW92R46bNUTA"
+                    },
+                    "timeCategory": "Past",
+                    "link": "https://tinyurl.com/acmwceleb2020"
+                },
+                {
+                    "id": "Event:ckt3y328g12n30c42y4dzb32z:PUBLISHED",
+                    "title": "CODENOVICE ",
+                    "about": "SSN ACM-W student chapter organised “CODE-NOVICE” a coding competition for Python enthusiasts, exclusively for the first-year students at SSN. The competition tested programming skills at a beginner level and promised to be a great way to start a journey in competitive coding. The participation from the student community was overwhelming and the winners took home handsome cash prizes. Matthew Jonathan G the Winner of Code-Novice was awarded Rs 1000/- and VIGNESH BALAJI S the Runner Up was awarded Rs 500/- as cash prizes from Dr Chitra Babu Head of Department Computer Science and Engineering, SSNCE.",
+                    "when": "2021-03-06T12:30:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/vtAMiDWmQMGdxErJcrwL"
+                    },
+                    "timeCategory": "Past",
+                    "link": null
+                },
+                {
+                    "id": "Event:ckt3zqbq014fm0d40yg6cohd9:PUBLISHED",
+                    "title": "Women for Change",
+                    "about": "Women for change is an initiative by the ACM-W student chapter of SSN to recognise your achievements and acknowledge the hurdles they have dealt headon in your amazing journey of being a woman!",
+                    "when": "2020-03-08T06:30:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/zTpxLv0SfeXSxBF1t6QF"
+                    },
+                    "timeCategory": "Past",
+                    "link": null
+                },
+                {
+                    "id": "Event:ckxubanfs7wbj0b433r9fintp:PUBLISHED",
+                    "title": "Eminent Speaker Program - Replicated Data Types: From Practice to Theory",
+                    "about": "The ACM and ACM-W student chapters of SSN, along with the ACM Chennai Regional Chapter, jointly conducted the first Eminent Speaker Programme of the academic year 2021-22, a two-hour talk titled \"Replicated Data Types: From Practice to Theory\", delivered by the esteemed Dr. Madhavan Mukund, Director at Chennai Mathematical Institute.",
+                    "when": "2021-09-29T12:30:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/K4jQZjzkQgOwIULRHNLY"
+                    },
+                    "timeCategory": "Present",
+                    "link": null
+                },
+                {
+                    "id": "Event:cky2zkdlk083r0b32ej392lgi:PUBLISHED",
+                    "title": "Journey of a DevelopHER",
+                    "about": "The SSN ACM-W Student Chapter proudly joins hands with the SVCE ACM-W Student Chapter to organise an interesting webinar titled 'My Journey with Tech Communities & Industry as a Developer', hosted by Nivetha Maran, a Software Engineer at Four Kites Inc and a proud alumna of SSN.\n",
+                    "when": "2022-01-11T13:00:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/zr0ffFTVTOuwgWNK64Fy"
+                    },
+                    "timeCategory": "Present",
+                    "link": null
+                }
+            ]
+        },
+        "allGraphCmsTeamMember": {
+            "nodes": [
+                {
+                    "id": "TeamMember:ckshkn07k3hr60b36tie5oin9:PUBLISHED",
+                    "name": "Kanyalakshmi G",
+                    "position": "Chairperson",
+                    "image": {
+                        "url": "https://media.graphassets.com/UOvtNAlCR1Wd8YZmVQNW"
+                    },
+                    "year": 2022
+                },
+                {
+                    "id": "TeamMember:ckshkrf5s3i210b36ihlujlko:PUBLISHED",
+                    "name": "Samyuktha G",
+                    "position": "Vice Chairperson",
+                    "image": {
+                        "url": "https://media.graphassets.com/HT1Bh4IsSyiHUYvpmJJg"
+                    },
+                    "year": 2021
+                },
+                {
+                    "id": "TeamMember:ckshktfow3gyk0d41uqn1nwno:PUBLISHED",
+                    "name": "Gunanicaa Arun",
+                    "position": "Secretary",
+                    "image": {
+                        "url": "https://media.graphassets.com/8vIxctVoRgeu2EO9a3TE"
+                    },
+                    "year": 2021
+                },
+                {
+                    "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
+                    "name": "Mrithula KL",
+                    "position": "Joint Secretary",
+                    "image": {
+                        "url": "https://media.graphassets.com/5MdGhV9zRAehtgigvW27"
+                    },
+                    "year": 2021
+                },
+                {
+                    "id": "TeamMember:ckshkwrag3il90b366l7jnvh3:PUBLISHED",
+                    "name": "Kathiyayini Sivakumar",
+                    "position": "Chief Editor",
+                    "image": {
+                        "url": "https://media.graphassets.com/YAhlblAQTK8bYTWaa9Kn"
+                    },
+                    "year": 2021
+                },
+                {
+                    "id": "TeamMember:ckshkzo883isi0b36ndb3ezmm:PUBLISHED",
+                    "name": "Sushaanth Srinivasan",
+                    "position": "Design Head",
+                    "image": {
+                        "url": "https://media.graphassets.com/LCCyyZFJT6iQfhVUsPBu"
+                    },
+                    "year": 2021
+                },
+                {
+                    "id": "TeamMember:ckshl3vgo3iwo0b36h60rurfo:PUBLISHED",
+                    "name": "Kanyalakshmi G",
+                    "position": "Event Head",
+                    "image": {
+                        "url": "https://media.graphassets.com/K9na9IPIQtqfC8UPxuNl"
+                    },
+                    "year": 2021
+                },
+                {
+                    "id": "TeamMember:ckshl61e83j0j0b36mk0yjri0:PUBLISHED",
+                    "name": "Krithika Swaminathan",
+                    "position": "Public Relations",
+                    "image": {
+                        "url": "https://media.graphassets.com/iI1UzhQ9SbejWgjolaoE"
+                    },
+                    "year": 2021
+                },
+                {
+                    "id": "TeamMember:cksyw7e6ob5td0c37z6o82c9k:PUBLISHED",
+                    "name": "P R Nandhinee ",
+                    "position": "Chairperson",
+                    "image": {
+                        "url": "https://media.graphassets.com/7yATg4HTmWMkXNDbx02Q"
+                    },
+                    "year": 2019
+                },
+                {
+                    "id": "TeamMember:ckt3s9ofc0rcf0c92zrnsi3g2:PUBLISHED",
+                    "name": "Jahnavi Srividya ",
+                    "position": "Chairperson",
+                    "image": {
+                        "url": "https://media.graphassets.com/bFUosyJTRWCZ4rJOhi1h"
+                    },
+                    "year": 2020
+                },
+                {
+                    "id": "TeamMember:ckt4bydjk1pai0c422v6e23bl:PUBLISHED",
+                    "name": "Likhitha Verma A",
+                    "position": "Vice Chairperson",
+                    "image": {
+                        "url": "https://media.graphassets.com/UOvtNAlCR1Wd8YZmVQNW"
+                    },
+                    "year": 2020
+                },
+                {
+                    "id": "TeamMember:ckt4c1ujk008g0c91xtqla2c7:PUBLISHED",
+                    "name": "Jahnavi Srividya ",
+                    "position": "Vice Chairperson",
+                    "image": {
+                        "url": "https://media.graphassets.com/bFUosyJTRWCZ4rJOhi1h"
+                    },
+                    "year": 2019
+                },
+                {
+                    "id": "TeamMember:ckt4cgrkw00n60c91pv6swgdr:PUBLISHED",
+                    "name": "Aparna Krishnan",
+                    "position": "Secretary",
+                    "image": {
+                        "url": "https://media.graphassets.com/xNTkJYRXQzm78PwNFK9h"
+                    },
+                    "year": 2020
+                },
+                {
+                    "id": "TeamMember:ckt4fi52w05gr0d39umuw2yuh:PUBLISHED",
+                    "name": "Likhitha Verma A",
+                    "position": "Secretary",
+                    "image": {
+                        "url": "https://media.graphassets.com/UOvtNAlCR1Wd8YZmVQNW"
+                    },
+                    "year": 2019
+                }
+            ]
+        },
+        "allGraphCmsFacultyMember": {
+            "nodes": [
+                {
+                    "id": "FacultyMember:cksmxd31k3w680b396ahxpqmh:PUBLISHED",
+                    "name": "Dr. Chitra Babu",
+                    "position": "Faculty Coordinator",
+                    "image": {
+                        "url": "https://media.graphassets.com/p2ZBGfJrRYCmxRPyZDEh"
+                    },
+                    "year": 2021
+                },
+                {
+                    "id": "FacultyMember:cksmxe42w3vlo0c85iin9a1w9:PUBLISHED",
+                    "name": "Dr. K Madeshwari",
+                    "position": "Faculty Coordinator",
+                    "image": {
+                        "url": "https://media.graphassets.com/3oTl8E1T6KpF400AEDs3"
+                    },
+                    "year": 2021
+                },
+                {
+                    "id": "FacultyMember:ckt4c7nnc00ea0c91eo7zs4nw:PUBLISHED",
+                    "name": "Dr. Chitra Babu",
+                    "position": "Faculty Coordinator",
+                    "image": {
+                        "url": "https://media.graphassets.com/p2ZBGfJrRYCmxRPyZDEh"
+                    },
+                    "year": 2020
+                },
+                {
+                    "id": "FacultyMember:ckt4c7wwo00ef0d39ix7kcdar:PUBLISHED",
+                    "name": "Dr. Chitra Babu",
+                    "position": "Faculty Coordinator",
+                    "image": {
+                        "url": "https://media.graphassets.com/p2ZBGfJrRYCmxRPyZDEh"
+                    },
+                    "year": 2019
+                },
+                {
+                    "id": "FacultyMember:ckt4c8cc800ey0d39eby1b687:PUBLISHED",
+                    "name": "Dr. K Madeshwari",
+                    "position": "Faculty Coordinator",
+                    "image": {
+                        "url": "https://media.graphassets.com/3oTl8E1T6KpF400AEDs3"
+                    },
+                    "year": 2019
+                },
+                {
+                    "id": "FacultyMember:ckt4d76yw026d0c910ps3zek4:PUBLISHED",
+                    "name": "Dr. K Madeshwari",
+                    "position": "Faculty Coordinator",
+                    "image": {
+                        "url": "https://media.graphassets.com/3oTl8E1T6KpF400AEDs3"
+                    },
+                    "year": 2020
+                }
+            ]
+        }
+    }
+}

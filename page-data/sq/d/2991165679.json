@@ -1,0 +1,93 @@
+{
+    "data": {
+        "allGraphCmsTeamMember": {
+            "nodes": [
+                {
+                    "id": "TeamMember:ckshkn07k3hr60b36tie5oin9:PUBLISHED",
+                    "name": "Kanyalakshmi G",
+                    "position": "Chairperson",
+                    "image": {
+                        "url": "https://media.graphassets.com/UOvtNAlCR1Wd8YZmVQNW"
+                    },
+                    "linkedin": "https://www.linkedin.com/in/kanyalakshmi-g-b875a41b3/"
+                },
+                {
+                    "id": "TeamMember:ckshkrf5s3i210b36ihlujlko:PUBLISHED",
+                    "name": "Samyuktha G",
+                    "position": "Vice Chairperson",
+                    "image": {
+                        "url": "https://media.graphassets.com/HT1Bh4IsSyiHUYvpmJJg"
+                    },
+                    "linkedin": "https://www.linkedin.com/in/samyukthaganeshkumar"
+                },
+                {
+                    "id": "TeamMember:ckshktfow3gyk0d41uqn1nwno:PUBLISHED",
+                    "name": "Gunanicaa Arun",
+                    "position": "Secretary",
+                    "image": {
+                        "url": "https://media.graphassets.com/8vIxctVoRgeu2EO9a3TE"
+                    },
+                    "linkedin": "www.linkedin.com/in/gunanicaa-arun"
+                },
+                {
+                    "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
+                    "name": "Mrithula KL",
+                    "position": "Joint Secretary",
+                    "image": {
+                        "url": "https://media.graphassets.com/5MdGhV9zRAehtgigvW27"
+                    },
+                    "linkedin": "https://www.linkedin.com/in/mrithula-kesavan-3810671ba"
+                },
+                {
+                    "id": "TeamMember:ckshkwrag3il90b366l7jnvh3:PUBLISHED",
+                    "name": "Kathiyayini Sivakumar",
+                    "position": "Chief Editor",
+                    "image": {
+                        "url": "https://media.graphassets.com/YAhlblAQTK8bYTWaa9Kn"
+                    },
+                    "linkedin": "https://www.linkedin.com/in/kathiyayini-s-04ab4013a"
+                },
+                {
+                    "id": "TeamMember:ckshkzo883isi0b36ndb3ezmm:PUBLISHED",
+                    "name": "Sushaanth Srinivasan",
+                    "position": "Design Head",
+                    "image": {
+                        "url": "https://media.graphassets.com/LCCyyZFJT6iQfhVUsPBu"
+                    },
+                    "linkedin": "https://www.linkedin.com/in/sushaanth-srinivasan"
+                },
+                {
+                    "id": "TeamMember:ckshl3vgo3iwo0b36h60rurfo:PUBLISHED",
+                    "name": "Kanyalakshmi G",
+                    "position": "Event Head",
+                    "image": {
+                        "url": "https://media.graphassets.com/K9na9IPIQtqfC8UPxuNl"
+                    },
+                    "linkedin": "https://www.linkedin.com/in/kanyalakshmi-g-b875a41b3"
+                }
+            ]
+        },
+        "allGraphCmsFacultyMember": {
+            "nodes": [
+                {
+                    "id": "FacultyMember:cksmxd31k3w680b396ahxpqmh:PUBLISHED",
+                    "name": "Dr. Chitra Babu",
+                    "position": "Faculty Coordinator",
+                    "image": {
+                        "url": "https://media.graphassets.com/p2ZBGfJrRYCmxRPyZDEh"
+                    },
+                    "linkedin": "https://www.ssn.edu.in/staff-members/dr-chitra-babu/"
+                },
+                {
+                    "id": "FacultyMember:cksmxe42w3vlo0c85iin9a1w9:PUBLISHED",
+                    "name": "Dr. K Madeshwari",
+                    "position": "Faculty Coordinator",
+                    "image": {
+                        "url": "https://media.graphassets.com/3oTl8E1T6KpF400AEDs3"
+                    },
+                    "linkedin": "https://www.ssn.edu.in/staff-members/dr-k-madheswari/"
+                }
+            ]
+        }
+    }
+}

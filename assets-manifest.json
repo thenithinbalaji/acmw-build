@@ -1,0 +1,11 @@
+{
+  "main.js": "render-page.js",
+  "render-page.js.map": "render-page.js.map",
+  "static/Saly-12.png": "static/Saly-12-bbd5ad71224a118361f8a39f3276426e.png",
+  "static/Saly-13.png": "static/Saly-13-bfa0bd4857438843bda0782a1e873470.png",
+  "static/Saly-15.png": "static/Saly-15-962ea74a47ddf367e317eaf9d8ea259f.png",
+  "static/Saly-17.png": "static/Saly-17-841a2cdc40395b8969834158437f95e6.png",
+  "static/Saly-19.png": "static/Saly-19-37d47f99b47773478ee6833994b0853d.png",
+  "static/Saly-24.png": "static/Saly-24-cfea8c6524bcd5c943f93b68869ea443.png",
+  "static/acmw_logo.png": "static/acmw_logo-c7faec311924767c24a72c6230baf04c.png"
+}

@@ -1,0 +1,209 @@
+{
+    "namedChunkGroups": {
+        "polyfill": {
+            "name": "polyfill",
+            "assets": [
+                {
+                    "name": "webpack-runtime-87c79ac32da4e2e7ebca.js",
+                    "size": 4636
+                },
+                {
+                    "name": "polyfill-a2828705cf46f8e7b2b1.js",
+                    "size": 82627
+                }
+            ],
+            "filteredAssets": 0,
+            "assetsSize": 87263,
+            "filteredAuxiliaryAssets": 2,
+            "auxiliaryAssetsSize": 218721
+        },
+        "app": {
+            "name": "app",
+            "assets": [
+                {
+                    "name": "webpack-runtime-87c79ac32da4e2e7ebca.js",
+                    "size": 4636
+                },
+                {
+                    "name": "framework-10e582c2fcda7fc6c85c.js",
+                    "size": 128803
+                },
+                {
+                    "name": "styles.da2b2708f2d1e3848325.css",
+                    "size": 15981
+                },
+                {
+                    "name": "5e2a4920-f6fd04dcf4ecfd2cca7a.js",
+                    "size": 1549
+                },
+                {
+                    "name": "app-6ff691dd342d671d7537.js",
+                    "size": 406442
+                }
+            ],
+            "filteredAssets": 0,
+            "assetsSize": 557411,
+            "filteredAuxiliaryAssets": 8,
+            "auxiliaryAssetsSize": 2696287
+        },
+        "component---src-pages-404-js": {
+            "name": "component---src-pages-404-js",
+            "assets": [],
+            "filteredAssets": 0,
+            "assetsSize": 0,
+            "filteredAuxiliaryAssets": 0,
+            "auxiliaryAssetsSize": 0
+        },
+        "component---src-pages-blog-js": {
+            "name": "component---src-pages-blog-js",
+            "assets": [
+                {
+                    "name": "f80005954ae6bce130c96ad181c17db43441ea62-69fd3f0a3165c84bee16.js",
+                    "size": 33210
+                },
+                {
+                    "name": "component---src-pages-blog-js-ae7e372bcdf9c39cf272.js",
+                    "size": 1110
+                }
+            ],
+            "filteredAssets": 0,
+            "assetsSize": 34320,
+            "filteredAuxiliaryAssets": 3,
+            "auxiliaryAssetsSize": 256983
+        },
+        "component---src-pages-contact-js": {
+            "name": "component---src-pages-contact-js",
+            "assets": [
+                {
+                    "name": "component---src-pages-contact-js-5d43a150aa082b110690.js",
+                    "size": 53835
+                }
+            ],
+            "filteredAssets": 0,
+            "assetsSize": 53835,
+            "filteredAuxiliaryAssets": 2,
+            "auxiliaryAssetsSize": 377571
+        },
+        "component---src-pages-events-js": {
+            "name": "component---src-pages-events-js",
+            "assets": [
+                {
+                    "name": "f80005954ae6bce130c96ad181c17db43441ea62-69fd3f0a3165c84bee16.js",
+                    "size": 33210
+                },
+                {
+                    "name": "bb76d5164223cdbb3fd84dee6f89f52ce3082107-3f37c7a857d241029067.js",
+                    "size": 12795
+                },
+                {
+                    "name": "component---src-pages-events-js-adab5f4e37edeb754e5a.js",
+                    "size": 1971
+                }
+            ],
+            "filteredAssets": 0,
+            "assetsSize": 47976,
+            "filteredAuxiliaryAssets": 4,
+            "auxiliaryAssetsSize": 261861
+        },
+        "component---src-pages-index-js": {
+            "name": "component---src-pages-index-js",
+            "assets": [
+                {
+                    "name": "1bfc9850-181dc10aefdc827b6fd5.js",
+                    "size": 2175
+                },
+                {
+                    "name": "component---src-pages-index-js-f8c9e444bdd940b7fe62.js",
+                    "size": 3240
+                }
+            ],
+            "filteredAssets": 0,
+            "assetsSize": 5415,
+            "filteredAuxiliaryAssets": 4,
+            "auxiliaryAssetsSize": 1847319
+        },
+        "component---src-pages-team-js": {
+            "name": "component---src-pages-team-js",
+            "assets": [
+                {
+                    "name": "1bfc9850-181dc10aefdc827b6fd5.js",
+                    "size": 2175
+                },
+                {
+                    "name": "component---src-pages-team-js-ada526bce05a12efdc2b.js",
+                    "size": 5886
+                }
+            ],
+            "filteredAssets": 0,
+            "assetsSize": 8061,
+            "filteredAuxiliaryAssets": 2,
+            "auxiliaryAssetsSize": 1545179
+        },
+        "component---src-pages-yearbook-js": {
+            "name": "component---src-pages-yearbook-js",
+            "assets": [
+                {
+                    "name": "1bfc9850-181dc10aefdc827b6fd5.js",
+                    "size": 2175
+                },
+                {
+                    "name": "f80005954ae6bce130c96ad181c17db43441ea62-69fd3f0a3165c84bee16.js",
+                    "size": 33210
+                },
+                {
+                    "name": "bb76d5164223cdbb3fd84dee6f89f52ce3082107-3f37c7a857d241029067.js",
+                    "size": 12795
+                },
+                {
+                    "name": "component---src-pages-yearbook-js-801abede5c0a47aa9aa6.js",
+                    "size": 15327
+                }
+            ],
+            "filteredAssets": 0,
+            "assetsSize": 63507,
+            "filteredAuxiliaryAssets": 4,
+            "auxiliaryAssetsSize": 1806751
+        }
+    },
+    "assetsByChunkName": {
+        "polyfill": [
+            "webpack-runtime-87c79ac32da4e2e7ebca.js",
+            "polyfill-a2828705cf46f8e7b2b1.js"
+        ],
+        "app": [
+            "webpack-runtime-87c79ac32da4e2e7ebca.js",
+            "framework-10e582c2fcda7fc6c85c.js",
+            "styles.da2b2708f2d1e3848325.css",
+            "5e2a4920-f6fd04dcf4ecfd2cca7a.js",
+            "app-6ff691dd342d671d7537.js"
+        ],
+        "component---src-pages-404-js": [],
+        "component---src-pages-blog-js": [
+            "f80005954ae6bce130c96ad181c17db43441ea62-69fd3f0a3165c84bee16.js",
+            "component---src-pages-blog-js-ae7e372bcdf9c39cf272.js"
+        ],
+        "component---src-pages-contact-js": [
+            "component---src-pages-contact-js-5d43a150aa082b110690.js"
+        ],
+        "component---src-pages-events-js": [
+            "f80005954ae6bce130c96ad181c17db43441ea62-69fd3f0a3165c84bee16.js",
+            "bb76d5164223cdbb3fd84dee6f89f52ce3082107-3f37c7a857d241029067.js",
+            "component---src-pages-events-js-adab5f4e37edeb754e5a.js"
+        ],
+        "component---src-pages-index-js": [
+            "1bfc9850-181dc10aefdc827b6fd5.js",
+            "component---src-pages-index-js-f8c9e444bdd940b7fe62.js"
+        ],
+        "component---src-pages-team-js": [
+            "1bfc9850-181dc10aefdc827b6fd5.js",
+            "component---src-pages-team-js-ada526bce05a12efdc2b.js"
+        ],
+        "component---src-pages-yearbook-js": [
+            "1bfc9850-181dc10aefdc827b6fd5.js",
+            "f80005954ae6bce130c96ad181c17db43441ea62-69fd3f0a3165c84bee16.js",
+            "bb76d5164223cdbb3fd84dee6f89f52ce3082107-3f37c7a857d241029067.js",
+            "component---src-pages-yearbook-js-801abede5c0a47aa9aa6.js"
+        ]
+    },
+    "childAssetsByChunkName": {}
+}
