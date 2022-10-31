@@ -1,0 +1,19 @@
+{
+  "name": "acmw-graphcms-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "175-ac38e35a6074aee5c1eb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thenithinbalaji/acmw-graphcms-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thenithinbalaji/acmw-graphcms-site/issues"
+  },
+  "homepage": "https://github.com/thenithinbalaji/acmw-graphcms-site#readme"
+}
