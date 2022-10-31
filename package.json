@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/thenithinbalaji/acmw-graphcms-site/issues"
   },
-  "homepage": "https://github.com/thenithinbalaji/acmw-graphcms-site#readme"
+  "homepage": "https://github.com/thenithinbalaji/acmw-graphcms-site#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
 }
