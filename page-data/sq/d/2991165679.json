@@ -13,28 +13,28 @@
                 },
                 {
                     "id": "TeamMember:ckshkrf5s3i210b36ihlujlko:PUBLISHED",
-                    "name": "Samyuktha G",
-                    "position": "Vice Chairperson",
-                    "image": {
-                        "url": "https://media.graphassets.com/HT1Bh4IsSyiHUYvpmJJg"
-                    },
-                    "linkedin": "https://www.linkedin.com/in/samyukthaganeshkumar"
-                },
-                {
-                    "id": "TeamMember:ckshktfow3gyk0d41uqn1nwno:PUBLISHED",
                     "name": "Gunanicaa Arun",
-                    "position": "Secretary",
+                    "position": "Vice Chairperson",
                     "image": {
                         "url": "https://media.graphassets.com/8vIxctVoRgeu2EO9a3TE"
                     },
-                    "linkedin": "www.linkedin.com/in/gunanicaa-arun"
+                    "linkedin": "https://www.linkedin.com/in/gunanicaa-arun"
                 },
                 {
                     "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
                     "name": "Mrithula KL",
-                    "position": "Joint Secretary",
+                    "position": "Secretary",
                     "image": {
                         "url": "https://media.graphassets.com/5MdGhV9zRAehtgigvW27"
+                    },
+                    "linkedin": "https://www.linkedin.com/in/mrithula-kesavan-3810671ba"
+                },
+                {
+                    "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
+                    "name": "Pooja Premnath",
+                    "position": "Joint Secretary",
+                    "image": {
+                        "url": "https://drive.google.com/uc?export=view&id=1ifu96SqkxRdcEQ2ng7ePHXPHxwzUgMdT"
                     },
                     "linkedin": "https://www.linkedin.com/in/mrithula-kesavan-3810671ba"
                 },
@@ -55,6 +55,15 @@
                         "url": "https://media.graphassets.com/LCCyyZFJT6iQfhVUsPBu"
                     },
                     "linkedin": "https://www.linkedin.com/in/sushaanth-srinivasan"
+                },
+                {
+                    "id": "TeamMember:ckshl3vgo3iwo0b36h60rurfo:PUBLISHED",
+                    "name": "Kanyalakshmi G",
+                    "position": "Event Head",
+                    "image": {
+                        "url": "https://media.graphassets.com/K9na9IPIQtqfC8UPxuNl"
+                    },
+                    "linkedin": "https://www.linkedin.com/in/kanyalakshmi-g-b875a41b3"
                 },
                 {
                     "id": "TeamMember:ckshl3vgo3iwo0b36h60rurfo:PUBLISHED",
