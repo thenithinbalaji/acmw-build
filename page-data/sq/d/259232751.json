@@ -10,6 +10,28 @@
                     "coverImage": {
                         "url": "https://media.graphassets.com/mnDmqbIbTBGErWuCL0Fm"
                     },
+                    "timeCategory": "Past",
+                    "link": null
+                },
+                {
+                    "id": "Event:ckshksx683glx0b82kzk900js:PUBLISHED",
+                    "title": "T-shirt designing competition",
+                    "about": "ACM-W is looking for a makeover and needs you for this massive change.That's right ! the T-shirt design that is awarded first place will also become the official T-shirt of ACM-W SSN",
+                    "when": "2022-10-29T13:00:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/LukPkLxdSWWD4n4Hvh73"
+                    },
+                    "timeCategory": "Present",
+                    "link": null
+                },
+                {
+                    "id": "Event:cl9zzan0i7gjw0bzr3sale2xd:PUBLISHED",
+                    "title": "CSPathshala",
+                    "about": "Haven't you always wondered how a lot of Indian schools do not cover the necessary topics in order to get one started with a career in computer science (unlike physics,maths and chemistry). The scenario proves to be even worse for several rural schools who are unaware of computational concepts.CSpathshala is an initiative that aims to generate interest among the uninformed and the ill equipped and thus directing them towards a bright career in this field. CSpathshala requires volunteers for this initiative , who will be either working directly in schools , teaching our curriculum to the teachers or a part of the curriculum building committee ",
+                    "when": "2022-11-19T13:00:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/xLyEkrNKQX2uDHZby8Zv"
+                    },
                     "timeCategory": "Present",
                     "link": null
                 },
@@ -21,7 +43,7 @@
                     "coverImage": {
                         "url": "https://media.graphassets.com/sVYuMcSCSHSGYhtfucGn"
                     },
-                    "timeCategory": "Present",
+                    "timeCategory": "Past",
                     "link": "https://www.youtube.com/watch?v=N67R6OqNLBo"
                 },
                 {
@@ -32,7 +54,7 @@
                     "coverImage": {
                         "url": "https://media.graphassets.com/TInLUqP0RUio90gkVaZX"
                     },
-                    "timeCategory": "Present",
+                    "timeCategory": "Past",
                     "link": "https://www.youtube.com/watch?v=2tvvpSKBjbs"
                 },
                 {
@@ -197,7 +219,7 @@
                     "coverImage": {
                         "url": "https://media.graphassets.com/K4jQZjzkQgOwIULRHNLY"
                     },
-                    "timeCategory": "Present",
+                    "timeCategory": "Past",
                     "link": null
                 },
                 {
@@ -208,7 +230,7 @@
                     "coverImage": {
                         "url": "https://media.graphassets.com/zr0ffFTVTOuwgWNK64Fy"
                     },
-                    "timeCategory": "Present",
+                    "timeCategory": "Past",
                     "link": null
                 }
             ]
@@ -222,8 +244,125 @@
                     "image": {
                         "url": "https://media.graphassets.com/UOvtNAlCR1Wd8YZmVQNW"
                     },
-                    "year": 2022
+                    "year": 2021
                 },
+                {
+                    "id": "TeamMember:ckshkn07k3hr60b36tie5oin9:PUBLISHED",
+                    "name": "Kanyalakshmi G",
+                    "position": "Chairperson",
+                    "image": {
+                        "url": "https://media.graphassets.com/UOvtNAlCR1Wd8YZmVQNW"
+                    },
+                   "year":2022
+                },
+                {
+                    "id": "TeamMember:ckshkrf5s3i210b36ihlujlko:PUBLISHED",
+                    "name": "Gunanicaa Arun",
+                    "position": "Vice Chairperson",
+                    "image": {
+                        "url": "https://media.graphassets.com/8vIxctVoRgeu2EO9a3TE"
+                    },
+                    "year":2022
+                },
+                {
+                    "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
+                    "name": "Mrithula KL",
+                    "position": "Secretary",
+                    "image": {
+                        "url": "https://media.graphassets.com/5MdGhV9zRAehtgigvW27"
+                    },
+                    "year":2022
+                    
+                },
+                {
+                    "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
+                    "name": "Pooja Premnath",
+                    "position": "Joint Secretary",
+                    "image": {
+                        "url": "https://media.graphassets.com/K66ALonTRqi1BY8Ygqsk"
+                    },
+                    "year":2022
+                    
+                },
+                {
+                    "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
+                    "name": "Adithi Sankar",
+                    "position": "Treasurer",
+                    "image": {
+                        "url": "https://media.graphassets.com/20QJ9VIBRqCm0ae88H6e"
+                    },
+                    "year":2022
+                    
+                },
+                {
+                    "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
+                    "name": "Nithin Balaji",
+                    "position": "Tech Head",
+                    "image": {
+                        "url": "https://media.graphassets.com/RzpPH8dHTXqqcXeYQRkg"
+                    },
+                    "year":2022
+                },
+                {
+                    "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
+                    "name": "Swetha Subramanium",
+                    "position": "Event Head",
+                    "image": {
+                        "url": "https://media.graphassets.com/jjkv6F53To6dfOUX1Yqh"
+                    },
+                    "year":2022
+                   
+                },
+                {
+                    "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
+                    "name": "Poorvica Ramanand",
+                    "position": "Design Head",
+                    "image": {
+                        "url": "https://media.graphassets.com/GF2vSPQVT4m392fdtLly"
+                    },
+                    "year":2022
+                    
+                },
+                {
+                    "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
+                    "name": "Anirudh K",
+                    "position": "Content Head",
+                    "image": {
+                        "url": "https://media.graphassets.com/6SUtEbSYSBa4VMpJimdi"
+                    },
+                    "year":2022
+                    
+                },
+                {
+                    "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
+                    "name": "Mayuri Balajee",
+                    "position": "Marketing Head",
+                    "image": {
+                        "url": "https://media.graphassets.com/MWcNnUQS321yv0XeVwXu"
+                    },
+                    "year":2022
+                    
+                },
+                {
+                    "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
+                    "name": "Themozhi J",
+                    "position": "Tech Member",
+                    "image": {
+                        "url": "https://media.graphassets.com/7mZMkyE8SfSRhwPVMN8M"
+                    },
+                    "year":2022
+                    
+                },
+                {
+                    "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
+                    "name": "Shri Darshini",
+                    "position": "Marketing Member",
+                    "image": {
+                        "url": "https://media.graphassets.com/tKM7i4NsSEOhTOVne37b"
+                    },
+                    "year":2022
+                },
+                
                 {
                     "id": "TeamMember:ckshkrf5s3i210b36ihlujlko:PUBLISHED",
                     "name": "Samyuktha G",

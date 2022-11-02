@@ -10,7 +10,7 @@
                     "coverImage": {
                         "url": "https://media.graphassets.com/mnDmqbIbTBGErWuCL0Fm"
                     },
-                    "timeCategory": "Present",
+                    "timeCategory": "P",
                     "link": null
                 },
                 {
@@ -21,7 +21,7 @@
                     "coverImage": {
                         "url": "https://media.graphassets.com/sVYuMcSCSHSGYhtfucGn"
                     },
-                    "timeCategory": "Present",
+                    "timeCategory": "Past",
                     "link": "https://www.youtube.com/watch?v=N67R6OqNLBo"
                 },
                 {
@@ -32,7 +32,7 @@
                     "coverImage": {
                         "url": "https://media.graphassets.com/TInLUqP0RUio90gkVaZX"
                     },
-                    "timeCategory": "Present",
+                    "timeCategory": "Past",
                     "link": "https://www.youtube.com/watch?v=2tvvpSKBjbs"
                 },
                 {
@@ -197,7 +197,7 @@
                     "coverImage": {
                         "url": "https://media.graphassets.com/K4jQZjzkQgOwIULRHNLY"
                     },
-                    "timeCategory": "Present",
+                    "timeCategory": "Past",
                     "link": null
                 },
                 {
@@ -208,7 +208,7 @@
                     "coverImage": {
                         "url": "https://media.graphassets.com/zr0ffFTVTOuwgWNK64Fy"
                     },
-                    "timeCategory": "Present",
+                    "timeCategory": "Past",
                     "link": null
                 }
             ]
