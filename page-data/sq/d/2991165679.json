@@ -7,7 +7,7 @@
                     "name": "Kanyalakshmi G",
                     "position": "Chairperson",
                     "image": {
-                        "url": "https://media.graphassets.com/UOvtNAlCR1Wd8YZmVQNW"
+                        "url": "static/kanyalakshmi.jpg"
                     },
                     "linkedin": "https://www.linkedin.com/in/kanyalakshmi-g-b875a41b3/"
                 },
@@ -16,7 +16,7 @@
                     "name": "Gunanicaa Arun",
                     "position": "Vice Chairperson",
                     "image": {
-                        "url": "https://media.graphassets.com/8vIxctVoRgeu2EO9a3TE"
+                        "url": "static/gunanicaa.jpg"
                     },
                     "linkedin": "https://www.linkedin.com/in/gunanicaa-arun"
                 },
@@ -25,7 +25,7 @@
                     "name": "Mrithula KL",
                     "position": "Secretary",
                     "image": {
-                        "url": "https://media.graphassets.com/5MdGhV9zRAehtgigvW27"
+                        "url": "static/mrithula.jpeg"
                     },
                     "linkedin": "https://www.linkedin.com/in/mrithula-kesavan-3810671ba"
                 },
@@ -34,45 +34,81 @@
                     "name": "Pooja Premnath",
                     "position": "Joint Secretary",
                     "image": {
-                        "url": "https://drive.google.com/uc?export=view&id=1ifu96SqkxRdcEQ2ng7ePHXPHxwzUgMdT"
+                        "url": "static/pooja.png"
                     },
                     "linkedin": "https://www.linkedin.com/in/mrithula-kesavan-3810671ba"
                 },
                 {
-                    "id": "TeamMember:ckshkwrag3il90b366l7jnvh3:PUBLISHED",
-                    "name": "Kathiyayini Sivakumar",
-                    "position": "Chief Editor",
+                    "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
+                    "name": "Adithi Sankar",
+                    "position": "Treasurer",
                     "image": {
-                        "url": "https://media.graphassets.com/YAhlblAQTK8bYTWaa9Kn"
+                        "url": "static/adithi.jpeg"
                     },
-                    "linkedin": "https://www.linkedin.com/in/kathiyayini-s-04ab4013a"
+                    "linkedin": "https://www.linkedin.com/in/mrithula-kesavan-3810671ba"
                 },
                 {
-                    "id": "TeamMember:ckshkzo883isi0b36ndb3ezmm:PUBLISHED",
-                    "name": "Sushaanth Srinivasan",
+                    "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
+                    "name": "Nithin Balaji",
+                    "position": "Tech Head",
+                    "image": {
+                        "url": "static/nithin.png"
+                    },
+                    "linkedin": "https://www.linkedin.com/in/thenithinbalaji/"
+                },
+                {
+                    "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
+                    "name": "Swetha Subramanium",
+                    "position": "Event Head",
+                    "image": {
+                        "url": "static/swetha.jpg"
+                    },
+                    "linkedin": "https://www.linkedin.com/in/thenithinbalaji/"
+                },
+                {
+                    "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
+                    "name": "Poorvica Ramanand",
                     "position": "Design Head",
                     "image": {
-                        "url": "https://media.graphassets.com/LCCyyZFJT6iQfhVUsPBu"
+                        "url": "static/poorvica.webp"
                     },
-                    "linkedin": "https://www.linkedin.com/in/sushaanth-srinivasan"
+                    "linkedin": "https://www.linkedin.com/in/thenithinbalaji/"
                 },
                 {
-                    "id": "TeamMember:ckshl3vgo3iwo0b36h60rurfo:PUBLISHED",
-                    "name": "Kanyalakshmi G",
-                    "position": "Event Head",
+                    "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
+                    "name": "Anirudh K",
+                    "position": "Content Head",
                     "image": {
-                        "url": "https://media.graphassets.com/K9na9IPIQtqfC8UPxuNl"
+                        "url": "static/anirudh.jpg"
                     },
-                    "linkedin": "https://www.linkedin.com/in/kanyalakshmi-g-b875a41b3"
+                    "linkedin": "https://www.linkedin.com/in/thenithinbalaji/"
                 },
                 {
-                    "id": "TeamMember:ckshl3vgo3iwo0b36h60rurfo:PUBLISHED",
-                    "name": "Kanyalakshmi G",
-                    "position": "Event Head",
+                    "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
+                    "name": "Mayuri Balajee",
+                    "position": "Marketing Head",
                     "image": {
-                        "url": "https://media.graphassets.com/K9na9IPIQtqfC8UPxuNl"
+                        "url": "static/mayuri.jpeg"
                     },
-                    "linkedin": "https://www.linkedin.com/in/kanyalakshmi-g-b875a41b3"
+                    "linkedin": "https://www.linkedin.com/in/thenithinbalaji/"
+                },
+                {
+                    "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
+                    "name": "Themozhi J",
+                    "position": "Tech Member",
+                    "image": {
+                        "url": "static/themozhi.jpg"
+                    },
+                    "linkedin": "https://www.linkedin.com/in/thenithinbalaji/"
+                },
+                {
+                    "id": "TeamMember:ckshkuz8w3jbr0c32hfgela3i:PUBLISHED",
+                    "name": "Shri Darshini",
+                    "position": "Marketing Member",
+                    "image": {
+                        "url": "static/dharshini.jpg"
+                    },
+                    "linkedin": "https://www.linkedin.com/in/thenithinbalaji/"
                 }
             ]
         },
