@@ -3,6 +3,50 @@
         "allGraphCmsEvent": {
             "nodes": [
                 {
+                    "id": "Event:ckshksx683glx0b82kzk900js:PUBLISHED",
+                    "title": "Alumni Speaker Series - Trends in Gaming and Advertising",
+                    "about": "Perpetuating their esteemed succession of alumni speakers, ACM and ACM-W bring to you Saravanan Mariappan, the Director of Engineering at Activision Blizzard Media. On this occasion, he disseminates his expert insights on contemporary gaming and advertising trends. With a software engineering specialization from CMU's ISR and prodigious career experience from serving on the engineering teams of over 5 global technology firms including Oracle and eBay, he shares his technical sagacity with us, about building robust scalable backends for state-of-the-art web services.",
+                    "when": "2022-10-29T13:00:00+00:00",
+                    "coverImage": {
+                        "url": "static/events/trendsingaming.png"
+                    },
+                    "timeCategory": "Present",
+                    "link": null
+                },
+                {
+                    "id": "Event:ckshksx683glx0b82kzk900js:PUBLISHED",
+                    "title": "Mentoring Session For SIH Finalists",
+                    "about": "We were extremely pleased to have with us Ms. Yamini and Ms Geethika, the winners of SIH 2019 and runner up of SIH 2018, to be able impart their knowledge based on their own SIH experience to the finalists of SIH 2022. \nThe finalists attended the exclusive mentoring session on 12th August.",
+                    "when": "2022-08-12T13:00:00+00:00",
+                    "coverImage": {
+                        "url": "static/events/sihmentoring.png"
+                    },
+                    "timeCategory": "Present",
+                    "link": null
+                },
+                {
+                    "id": "Event:ckshksx683glx0b82kzk900js:PUBLISHED",
+                    "title": "T-shirt Designing Competition",
+                    "about": "ACM-W is looking for a makeover and needs you for this massive change. That's right! The T-shirt design that is awarded first place will also become the official T-shirt of ACM-W SSN",
+                    "when": "2022-10-29T13:00:00+00:00",
+                    "coverImage": {
+                        "url": "static/events/tshirtdesign.jpg"
+                    },
+                    "timeCategory": "Upcoming",
+                    "link": null
+                },
+                {
+                    "id": "Event:cl9zzan0i7gjw0bzr3sale2xd:PUBLISHED",
+                    "title": "CSPathshala",
+                    "about": "Haven't you always wondered how a lot of Indian schools do not cover the necessary topics in order to get one started with a career in computer science (unlike physics, maths and chemistry). The scenario proves to be even worse for several rural schools who are unaware of computational concepts. CSpathshala is an initiative that aims to generate interest among the uninformed and the ill equipped and thus directing them towards a bright career in this field. CSpathshala requires volunteers for this initiative, who will be either working directly in schools, teaching our curriculum to the teachers or a part of the curriculum building committee.",
+                    "when": "2022-11-19T13:00:00+00:00",
+                    "coverImage": {
+                        "url": "static/events/cspathshala.jpg"
+                    },
+                    "timeCategory": "Upcoming",
+                    "link": null
+                },
+                {
                     "id": "Event:ckst3aqcwf2v70b86v0das1xt:PUBLISHED",
                     "title": "Bit'wise' Coding Contest",
                     "about": "You have to be a bit wise to choose your algorithms for this one! With over 196 participants at this successful coding competition, it was a perfect commencement of activities for the academic year 2021. ",
@@ -10,7 +54,7 @@
                     "coverImage": {
                         "url": "https://media.graphassets.com/mnDmqbIbTBGErWuCL0Fm"
                     },
-                    "timeCategory": "P",
+                    "timeCategory": "Past",
                     "link": null
                 },
                 {

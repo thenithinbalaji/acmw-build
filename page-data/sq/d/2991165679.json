@@ -7,7 +7,7 @@
                     "name": "Kanyalakshmi G",
                     "position": "Chairperson",
                     "image": {
-                        "url": "static/kanyalakshmi.jpg"
+                        "url": "static/team/kanyalakshmi.jpg"
                     },
                     "linkedin": "https://www.linkedin.com/in/kanyalakshmi-g-b875a41b3/"
                 },
@@ -16,7 +16,7 @@
                     "name": "Gunanicaa Arun",
                     "position": "Vice Chairperson",
                     "image": {
-                        "url": "static/gunanicaa.jpg"
+                        "url": "static/team/gunanicaa.jpg"
                     },
                     "linkedin": "https://www.linkedin.com/in/gunanicaa-arun"
                 },
@@ -25,7 +25,7 @@
                     "name": "Mrithula KL",
                     "position": "Secretary",
                     "image": {
-                        "url": "static/mrithula.jpeg"
+                        "url": "static/team/mrithula.jpeg"
                     },
                     "linkedin": "https://www.linkedin.com/in/mrithula-kesavan-3810671ba"
                 },
@@ -34,7 +34,7 @@
                     "name": "Pooja Premnath",
                     "position": "Joint Secretary",
                     "image": {
-                        "url": "static/pooja.png"
+                        "url": "static/team/pooja.png"
                     },
                     "linkedin": "https://www.linkedin.com/in/poojapremnath/"
                 },
@@ -43,7 +43,7 @@
                     "name": "Adithi Sankar",
                     "position": "Treasurer",
                     "image": {
-                        "url": "static/adithi.jpeg"
+                        "url": "static/team/adithi.jpeg"
                     },
                     "linkedin": "https://www.linkedin.com/in/adithi-shankar-663507215/"
                 },
@@ -52,7 +52,7 @@
                     "name": "Nithin Balaji",
                     "position": "Tech Head",
                     "image": {
-                        "url": "static/nithin.png"
+                        "url": "static/team/nithin.png"
                     },
                     "linkedin": "https://www.linkedin.com/in/thenithinbalaji/"
                 },
@@ -61,7 +61,7 @@
                     "name": "Swetha Subramanium",
                     "position": "Event Head",
                     "image": {
-                        "url": "static/swetha.jpg"
+                        "url": "static/team/swetha.jpg"
                     },
                     "linkedin": null
                 },
@@ -70,7 +70,7 @@
                     "name": "Poorvica Ramanand",
                     "position": "Design Head",
                     "image": {
-                        "url": "static/poorvica.webp"
+                        "url": "static/team/poorvica.webp"
                     },
                     "linkedin": "https://www.linkedin.com/in/poorvica-ramanand-65994721b/"
                 },
@@ -79,7 +79,7 @@
                     "name": "Anirudh K",
                     "position": "Content Head",
                     "image": {
-                        "url": "static/anirudh.jpg"
+                        "url": "static/team/anirudh.jpg"
                     },
                     "linkedin": null
                 },
@@ -88,7 +88,7 @@
                     "name": "Mayuri Balajee",
                     "position": "Marketing Head",
                     "image": {
-                        "url": "static/mayuri.jpeg"
+                        "url": "static/team/mayuri.jpeg"
                     },
                     "linkedin": "https://www.linkedin.com/in/mayuribalajee/"
                 },
@@ -97,7 +97,7 @@
                     "name": "Themozhi J",
                     "position": "Tech Member",
                     "image": {
-                        "url": "static/themozhi.jpg"
+                        "url": "static/team/themozhi.jpg"
                     },
                     "linkedin": "https://www.linkedin.com/in/themozhi-j-3103a8214/"
                 },
@@ -106,7 +106,7 @@
                     "name": "Shri Darshini",
                     "position": "Marketing Member",
                     "image": {
-                        "url": "static/dharshini.jpg"
+                        "url": "static/team/dharshini.jpg"
                     },
                     "linkedin": null
                 }
