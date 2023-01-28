@@ -32,7 +32,7 @@
                     "coverImage": {
                         "url": "https://media.graphassets.com/GipiDpaDR7SWnFgoofhY"
                     },
-                    "timeCategory": "Upcoming",
+                    "timeCategory": "Present",
                     "link": null
                 },
                 {
@@ -43,7 +43,40 @@
                     "coverImage": {
                         "url": "https://media.graphassets.com/yuf47AAkQPW2eJv6EBgQ"
                     },
-                    "timeCategory": "Upcoming",
+                    "timeCategory": "Present",
+                    "link": null
+                },
+                {
+                    "id": "Event:cldg2hv9rak7e0bzvayuh09q4:PUBLISHED",
+                    "title": "Orientation",
+                    "about": "For all the curious minds out there! Have you always wondered who we are and what we do at ACM-W? It's time we answer all your queries and tell you about us! In this orientation meet, we give you a glimpse of our mission here at ACM-W and walk you through the ways in which you can contribute!",
+                    "when": "2023-01-19T12:30:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/HpKyVkn9QgGEPChfP8rk"
+                    },
+                    "timeCategory": "Present",
+                    "link": null
+                },
+                {
+                    "id": "Event:cldg2gum0ak5j0bzvpehm4wtm:PUBLISHED",
+                    "title": "WOMEN 'N CODE",
+                    "about": "ACM-W proudly brings to you , yet another challenging coding contest - Women 'N Code, a contest for those women who want to showcase their talent in competitive programming and be a part of something bigger.",
+                    "when": "2022-12-10T12:30:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/frgZJwWpSuybsDdIsrs3"
+                    },
+                    "timeCategory": "Present",
+                    "link": null
+                },
+                {
+                    "id": "Event:cldg2g2zxajkl0b19g7qhyxbf:PUBLISHED",
+                    "title": "CSPathshala",
+                    "about": null,
+                    "when": "2022-11-19T12:30:00+00:00",
+                    "coverImage": {
+                        "url": "https://media.graphassets.com/3LZbHpGKRFinSG9Nd91Y"
+                    },
+                    "timeCategory": "Present",
                     "link": null
                 },
                 {
