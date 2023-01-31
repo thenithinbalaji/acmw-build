@@ -3,23 +3,23 @@
         "allGraphCmsEvent": {
             "nodes": [
                 {
-                    "id": "Event:cldg2hv9rak7e0bzvayuh09q4:PUBLISHED",
+                    "id": "Event:cldkkmein07hr0bzkfeufda30:PUBLISHED",
                     "title": "Orientation",
                     "about": "For all the curious minds out there! Have you always wondered who we are and what we do at ACM-W? It's time we answer all your queries and tell you about us! In this orientation meet, we give you a glimpse of our mission here at ACM-W and walk you through the ways in which you can contribute!",
                     "when": "2023-01-19T12:30:00+00:00",
                     "coverImage": {
-                        "url": "https://media.graphassets.com/HpKyVkn9QgGEPChfP8rk"
+                        "url": "https://media.graphassets.com/eYhxCfmQM69YJ0bvKBEf"
                     },
                     "timeCategory": "Present",
                     "link": null
                 },
                 {
-                    "id": "Event:cldg2gum0ak5j0bzvpehm4wtm:PUBLISHED",
+                    "id": "Event:cldg2hv9rak7e0bzvayuh09q4:PUBLISHED",
                     "title": "WOMEN 'N CODE",
                     "about": "ACM-W proudly brings to you , yet another challenging coding contest - Women 'N Code, a contest for those women who want to showcase their talent in competitive programming and be a part of something bigger.",
                     "when": "2022-12-10T12:30:00+00:00",
                     "coverImage": {
-                        "url": "https://media.graphassets.com/frgZJwWpSuybsDdIsrs3"
+                        "url": "https://media.graphassets.com/fdMV4DNdTbOcve3l14GJ"
                     },
                     "timeCategory": "Present",
                     "link": null
@@ -30,7 +30,7 @@
                     "about": "Bebras is an international initiative aiming to promote Computer Science among school students at all ages. The Bebras challenge is open twice a year to Australian Students in Years 3-12, and engages students' computational thinking and problem solving skills in a fun, interactive environment.",
                     "when": "2022-11-19T12:30:00+00:00",
                     "coverImage": {
-                        "url": "https://media.graphassets.com/3LZbHpGKRFinSG9Nd91Y"
+                        "url": "https://media.graphassets.com/20rZkvc0QSuMqIAIpPS2"
                     },
                     "timeCategory": "Present",
                     "link": null
