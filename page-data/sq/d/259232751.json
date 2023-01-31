@@ -26,8 +26,8 @@
                 },
                 {
                     "id": "Event:cldg2g2zxajkl0b19g7qhyxbf:PUBLISHED",
-                    "title": "CSPathshala",
-                    "about": null,
+                    "title": "CSPathshala: Bebras Challenges",
+                    "about": "Bebras is an international initiative aiming to promote Computer Science among school students at all ages. The Bebras challenge is open twice a year to Australian Students in Years 3-12, and engages students' computational thinking and problem solving skills in a fun, interactive environment.",
                     "when": "2022-11-19T12:30:00+00:00",
                     "coverImage": {
                         "url": "https://media.graphassets.com/3LZbHpGKRFinSG9Nd91Y"
@@ -48,7 +48,7 @@
                 },
                 {
                     "id": "Event:cl9zzan0i7gjw0bzr3sale2xd:PUBLISHED",
-                    "title": "CSPathshala",
+                    "title": "CSPathshala Orientation",
                     "about": "Haven't you always wondered how a lot of Indian schools do not cover the necessary topics in order to get one started with a career in computer science (unlike physics, maths and chemistry). The scenario proves to be even worse for several rural schools who are unaware of computational concepts. CSpathshala is an initiative that aims to generate interest among the uninformed and the ill equipped and thus directing them towards a bright career in this field. CSpathshala requires volunteers for this initiative, who will be either working directly in schools, teaching our curriculum to the teachers or a part of the curriculum building committee.",
                     "when": "2022-11-19T13:00:00+00:00",
                     "coverImage": {
@@ -87,7 +87,7 @@
                     "coverImage": {
                         "url": "https://media.graphassets.com/mnDmqbIbTBGErWuCL0Fm"
                     },
-                    "timeCategory": "Present",
+                    "timeCategory": "Past",
                     "link": null
                 },
                 {
